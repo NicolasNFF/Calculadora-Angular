@@ -1,12 +1,10 @@
-os componentes são objetos individuais/idepedentes
-
 
 git comandos:
 
 
 1 - Entrar no local que ira clonar a pasta do projeto
 
-2 - criar pasta para armazenar o codigo: mkdir "nome" 
+2 - criar pasta para armazenar o código: mkdir "nome" 
 
 3- Entrar na pasta: cd "nome-da-pasta"
 
@@ -17,8 +15,7 @@ git comandos:
 6 - Abrir no visual code: code . 
 
 
-comando para verificar as pasta local: dir
+Comando para verificar as pasta local: dir
 
 
-  background-color: #000000;
-  color: white;
+ 
