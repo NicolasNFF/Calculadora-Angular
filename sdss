@@ -1,0 +1,24 @@
+os componentes são objetos individuais/idepedentes
+
+
+git comandos:
+
+
+1 - Entrar no local que ira clonar a pasta do projeto
+
+2 - criar pasta para armazenar o codigo: mkdir "nome" 
+
+3- Entrar na pasta: cd "nome-da-pasta"
+
+4 - Clonar projeto: git clone "link do projeto no github"
+
+5 - Entrar na pasta clonada: cd "nome da pasta"
+
+6 - Abrir no visual code: code . 
+
+
+comando para verificar as pasta local: dir
+
+
+  background-color: #000000;
+  color: white;
